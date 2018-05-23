@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mariossan
+                    Curso de Mariossan 
                 </div>
 
                 <div class="links">
